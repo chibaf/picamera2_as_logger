@@ -14,5 +14,4 @@ while True:
   pc2.set_controls( {"AfMode" : controls.AfModeEnum.Continuous} )
   time.sleep( 5 )
   pc2.capture_file(fn)
-  time.sleep(5)
-
+  time.sleep(1795)
